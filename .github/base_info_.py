@@ -1,0 +1,6 @@
+# здесь ввести  необходимые данные
+
+my_token = "vk1.a.1CV2tVLgyhw9BAa8BfLOuzwAKMmJhMj__DZzKz5fZd_5DtYk6hfoUWIfuUUXn-oxI4zfxyNVvG3nHtQJV3LmwjasUC4ASFEBCe9paquApHpuwn-xYsCGGFIUBo5GY7Y0KPWgvVmgQAmANx4kQZOFqcPY1PwDAC-qg8s7LiCoC_5lR9NwtuemqiVkHeiozdhC"
+side_profile_token = "8f542db18f542db18f542db1a98c46e17c88f548f542db1eca3594913dac27b1cae6703"
+
+
